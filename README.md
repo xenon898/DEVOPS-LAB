@@ -1,4 +1,4 @@
-# DevOps take-home
+# DevOps Assignment
 
 This repository contains a small HTTP service, its Helm chart and local setup
 script, plus the supplied Part 4 debug lab.
